@@ -19,3 +19,9 @@ dict = {"name"：“誉为打”，“niha ”: "ddsd","da":24 }</br>
 del dict["ddsd"] 删除元素 </br>
 通过键的值索引</br>
  无序</br>
+
+<h1>集合</hi>
+set ={1,2,45,fdfd,3}</br>
+set.add()</br>
+set.remove()</br>
+无序 
