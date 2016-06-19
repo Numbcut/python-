@@ -20,7 +20,7 @@ del dict["ddsd"] 删除元素 </br>
 通过键的值索引</br>
  无序</br>
 
-<h1>集合</hi>
+<h1>集合</h1>
 set ={1,2,45,fdfd,3}</br>
 set.add()</br>
 set.remove()</br>
